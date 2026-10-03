@@ -1,0 +1,4 @@
+,accuracy,precision,recall,f1,roc_auc,std_accuracy
+Logistic Regression,0.817,0.778,0.74,0.757,0.871,0.019
+Random Forest,0.816,0.77,0.744,0.756,0.875,0.03
+SVM (RBF kernel),0.826,0.806,0.722,0.76,0.861,0.021
